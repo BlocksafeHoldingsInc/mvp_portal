@@ -8,7 +8,7 @@ var server = http.createServer(function(request, response) {
             response.writeHead(200, {  
                 'Content-Type': 'text/plain'  
             });  
-            response.write("This is Test... Your Money is all gone... Sorry.. Try Again...");  
+            response.write("This is Test... Your Money is ...... Sorry.. Tbad connection...ry Again...");  
             response.end();  
             break;  
         case '/index.html':  
