@@ -1,7 +1,10 @@
-var http = require('http');
+//nodejs
 
-var server = http.createServer(function(req, res) {
+var instructionsNewVisitor = function(req, res) {
 res.writeHead(200);
-res.end('welcome to pagarba streamiot');
-});
+res.end('Hi everybody!');
+}
+
+var server = http.createServer(instructionsNewVisitor);
+
 server.listen(6667);
