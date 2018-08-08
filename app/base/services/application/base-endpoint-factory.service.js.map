@@ -1,0 +1,1 @@
+{"version":3,"file":"base-endpoint-factory.service.js","sourceRoot":"","sources":["base-endpoint-factory.service.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,sCAAqD;AACrD,sCAA+D;AAG/D,gDAA2D;AAG3D;IACE,6BAAY,IAAU,EAAE,aAAgC,EAAE,QAAkB;IAE5E,CAAC;IAHmB,mBAAmB;QADxC,iBAAU,EAAE;yCAEO,WAAI,EAAiB,yBAAiB,EAAY,eAAQ;OADxD,mBAAmB,CAUxC;IAAD,0BAAC;CAAA,AAVD,IAUC;AAVqB,kDAAmB"}

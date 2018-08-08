@@ -1,0 +1,1 @@
+{"version":3,"file":"base-authentication.service.js","sourceRoot":"","sources":["base-authentication.service.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,sCAA2C;AAC3C,0CAAmG;AAEnG,8CAAsD;AACtD,gDAA2D;AAK3D;IAOE,mCAAY,UAA0B,EAAE,aAAgC,EAAE,MAAc;IAExF,CAAC;IATmB,yBAAyB;QAD9C,iBAAU,EAAE;yCAQa,sBAAc,EAAiB,yBAAiB,EAAU,eAAM;OAPpE,yBAAyB,CA8B9C;IAAD,gCAAC;CAAA,AA9BD,IA8BC;AA9BqB,8DAAyB"}
